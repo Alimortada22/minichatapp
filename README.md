@@ -67,8 +67,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License.
 ```
 
-### Notes
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- Adjust any sections to better fit your app’s specifics or your personal style!
 
-Let me know if you need any further modifications or additional information!
